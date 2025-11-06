@@ -72,7 +72,9 @@ cd frontend
 npm run dev
 ```
 
+<img width="1867" height="983" alt="t2" src="https://github.com/user-attachments/assets/e6b84240-3480-4640-a8ca-b2be96571c6d" />
+<img width="1867" height="982" alt="t3" src="https://github.com/user-attachments/assets/7a4ebe86-a979-479f-bc63-c91dc71f2d7a" />
+<img width="1867" height="982" alt="t4" src="https://github.com/user-attachments/assets/0537a717-46e5-466d-9b1b-26ba0c6da061" />
 
 
-<img width="1865" height="985" alt="n3" src="https://github.com/user-attachments/assets/0d3df7ab-4829-460d-a654-9da47d034874" />
-<img w
+
